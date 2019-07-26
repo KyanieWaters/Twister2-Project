@@ -1,0 +1,102 @@
+./bin/twister2 submit standalone jar examples/libexamples-java.jar edu.iu.dsc.tws.examples.task.ExampleTaskMain -itr 1 -workers 1 -size 2 -op "bcast" -stages 1,8 -verify -stream
+
+1)Broadcast 1,8 Workers 1 Size 2
+
+Total time [M_SEND - M_RECV] = 11334232ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 11334232.000000
+[2019-06-04 14:17:32 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 1.1334232E7  
+Total time [ALL_SEND - ALL_RECV] = 22005117ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 22005117.000000
+
+2)Broadcast 1,8 Workers 1 Size 4
+
+Total time [M_SEND - M_RECV] = 23298417ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 23298417.000000
+[2019-06-04 14:19:15 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 2.3298417E7  
+Total time [ALL_SEND - ALL_RECV] = 24448791ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 24448791.000000
+
+3)Broadcast 1,8 Workers 1 Size 8
+
+Total time [M_SEND - M_RECV] = 13631191ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 13631191.000000
+[2019-06-04 14:19:47 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 1.3631191E7  
+Total time [ALL_SEND - ALL_RECV] = 14742662ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 14742662.000000
+
+4)Broadcast 1,8 Workers 1 Size 16
+
+Total time [M_SEND - M_RECV] = 23696528ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 23696528.000000
+[2019-06-04 14:20:28 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 2.3696528E7  
+Total time [ALL_SEND - ALL_RECV] = 24843813ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 24843813.000000
+
+5)Broadcast 1,8 Workers 1 Size 32
+
+Total time [M_SEND - M_RECV] = 18412390ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 18412390.000000
+[2019-06-04 14:20:52 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 1.841239E7  
+Total time [ALL_SEND - ALL_RECV] = 19461676ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 19461676.000000
+
+6)Broadcast 1,8 Workers 1 Size 64
+
+Total time [M_SEND - M_RECV] = 39681747ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 39681747.000000
+[2019-06-04 14:21:23 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 3.9681747E7  
+Total time [ALL_SEND - ALL_RECV] = 40739834ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 40739834.000000
+
+7)Broadcast 1,8 Workers 1 Size 128
+
+Total time [M_SEND - M_RECV] = 17877861ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 17877861.000000
+[2019-06-04 14:21:47 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 1.7877861E7  
+Total time [ALL_SEND - ALL_RECV] = 18697878ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 18697878.000000
+
+8)Broadcast 1,8 Workers 1 Size 256
+
+Total time [M_SEND - M_RECV] = 27725457ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 27725457.000000
+[2019-06-04 14:22:08 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 2.7725457E7  
+Total time [ALL_SEND - ALL_RECV] = 39425974ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 39425974.000000
+
+9)Broadcast 1,8 Workers 1 Size 512
+
+Total time [M_SEND - M_RECV] = 27350618ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 27350618.000000
+[2019-06-04 14:22:30 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 2.7350618E7  
+Total time [ALL_SEND - ALL_RECV] = 28413478ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 28413478.000000
+
+10)Broadcast 1,8 Workers 1 Size 1024
+
+Total time [M_SEND - M_RECV] = 13497307ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 13497307.000000
+[2019-06-04 14:22:51 -0400] [INFO] [worker-0] [executor-0] edu.iu.dsc.tws.examples.utils.bench.BenchmarkUtils: Average time for an iterations : 1.3497307E7  
+Total time [ALL_SEND - ALL_RECV] = 14507913ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 14507913.000000
+

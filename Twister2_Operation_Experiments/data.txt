@@ -1,0 +1,60 @@
+Total time [M_SEND - M_RECV] = 3597701ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3597701.000000
+Total time [ALL_SEND - ALL_RECV] = 4146494ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4146494.000000
+Total time [M_SEND - M_RECV] = 3907027ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3907027.000000
+Total time [ALL_SEND - ALL_RECV] = 4401665ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4401665.000000
+Total time [M_SEND - M_RECV] = 3959326ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3959326.000000
+Total time [ALL_SEND - ALL_RECV] = 4513424ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4513424.000000
+Total time [M_SEND - M_RECV] = 3968629ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3968629.000000
+Total time [ALL_SEND - ALL_RECV] = 4514222ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4514222.000000
+Total time [M_SEND - M_RECV] = 3971681ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3971681.000000
+Total time [ALL_SEND - ALL_RECV] = 4502405ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4502405.000000
+Total time [M_SEND - M_RECV] = 3845781ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3845781.000000
+Total time [ALL_SEND - ALL_RECV] = 4361090ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4361090.000000
+Total time [M_SEND - M_RECV] = 3654891ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3654891.000000
+Total time [ALL_SEND - ALL_RECV] = 4159415ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4159415.000000
+Total time [M_SEND - M_RECV] = 3911526ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 3911526.000000
+Total time [ALL_SEND - ALL_RECV] = 4402197ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4402197.000000
+Total time [M_SEND - M_RECV] = 4042917ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 4042917.000000
+Total time [ALL_SEND - ALL_RECV] = 4613781ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 4613781.000000
+Total time [M_SEND - M_RECV] = 4545605ns
+Taking average for 1 events
+Average time [M_SEND - M_RECV] = 4545605.000000
+Total time [ALL_SEND - ALL_RECV] = 5112151ns
+Taking average for 1 events
+Average time [ALL_SEND - ALL_RECV] = 5112151.000000
